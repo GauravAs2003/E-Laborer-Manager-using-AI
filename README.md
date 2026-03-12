@@ -158,26 +158,12 @@ Example response:
 3. Configure MySQL database
 4. Run the Spring Boot application
 
-Backend will run on:
 
-https://laborer-manager--gauravaswale65.replit.app/
+## 🌐 Live Demo
 
----
+Access the live application here:
 
-### Frontend
-
-1. Navigate to frontend folder
-2. Install dependencies
-
-npm install
-
-3. Start React application
-
-npm start
-
-Frontend will run on:
-
-http://localhost:3000
+🔗 https://laborer-manager--gauravaswale65.replit.app/
 
 ---
 
