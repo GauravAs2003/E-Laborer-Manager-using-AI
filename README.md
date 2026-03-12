@@ -141,11 +141,11 @@ Example response:
 
 ### Add Laborer Page
 
-![Add Laborer](screenshots/add-laborer.png)
+![Add Laborer](screenshots/laborer.png)
 
 ### Laborer List
 
-![Laborer List](screenshots/laborer-list.png)
+![Laborer List](screenshots/report.png)
 
 ---
 
